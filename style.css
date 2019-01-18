@@ -267,18 +267,7 @@ body.single-work .page-title{
       margin-top: -8px !important;
   }
 }
-/* Pop up menu */
-.edgtf-fullscreen-menu-holder {
-    background-color: #101012 !important;
-    background-image: url(https://bendavidsandhu.com/wp-content/uploads/2018/05/logo2-1.png);
-    background-repeat: no-repeat !important;
-    background-position: center !important;
-    background-size: 130px;
-	margin: 3px 0 0 0;
-}
-li#popup-menu-item-4433 {
-  margin-bottom: 35vh !important;
-}
+
 .edgtf-fullscreen-menu li a {
   color: #ededed !important;
   font-size: 20px !important;

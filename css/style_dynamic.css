@@ -1,112 +1,61 @@
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
 body { font-family: Inconsolata;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, a:hover, p a:hover, .edgtf-mobile-header .edgtf-mobile-nav ul li a:hover, .edgtf-mobile-header .edgtf-mobile-nav ul li h5:hover, .edgtf-mobile-header .edgtf-mobile-nav .edgtf-grid > ul > li.edgtf-active-item > a, .edgtf-search-page-holder .edgtf-search-page-form .edgtf-form-holder .edgtf-search-submit:hover, .edgtf-search-page-holder article.sticky .edgtf-post-title-area h3 a, .edgtf-blog-holder article.sticky .edgtf-post-title a, .edgtf-blog-holder article .edgtf-post-info>div a:hover, .edgtf-social-share-holder.edgtf-dropdown .edgtf-social-share-dropdown-opener:hover, .edgtf-single-tags-holder .edgtf-tags a:hover, .edgtf-author-description .edgtf-author-description-text-holder .edgtf-author-name a:hover, .edgtf-author-description .edgtf-author-description-text-holder .edgtf-author-social-icons a:hover, .edgtf-related-posts-holder .edgtf-related-post .edgtf-post-info a:hover, .edgtf-blog-single-navigation .edgtf-blog-single-prev .edgtf-blog-single-clickable:hover .edgtf-blog-single-nav-mark, .edgtf-blog-single-navigation .edgtf-blog-single-next .edgtf-blog-single-clickable:hover .edgtf-blog-single-nav-mark, .edgtf-single-links-pages .edgtf-single-links-pages-inner > a:hover, .edgtf-single-links-pages .edgtf-single-links-pages-inner > span:hover, .edgtf-blog-list-holder .edgtf-bli-info > div a:hover, .edgtf-blog-list-holder.edgtf-classic-layout .edgtf-bli-title a:hover, .edgtf-portfolio-accordion-holder .edgtf-pa-menu-nav .edgtf-pa-category-items ul li a:hover, .edgtf-portfolio-accordion-holder .edgtf-pa-menu-nav .edgtf-pa-category-items ul li a.edgtf-pa-active, .widget.widget_text a:hover, .widget.widget_calendar a:hover, .widget.widget_rss a:hover, .widget.widget_search a:hover, .widget.widget_pages a:hover, .widget.widget_archive a:hover, .widget.widget_categories a:hover, .widget.widget_meta a:hover, .widget.widget_nav_menu a:hover, .widget.widget_recent_entries a:hover, .widget.widget_recent_comments a:hover, .widget.widget_tag_cloud a:hover, .widget.widget_search button:hover, footer .edgtf-footer-top .widget.widget_text a:hover, footer .edgtf-footer-top .widget.widget_calendar a:hover, footer .edgtf-footer-top .widget.widget_rss a:hover, footer .edgtf-footer-top .widget.widget_search a:hover, footer .edgtf-footer-top .widget.widget_pages a:hover, footer .edgtf-footer-top .widget.widget_archive a:hover, footer .edgtf-footer-top .widget.widget_categories a:hover, footer .edgtf-footer-top .widget.widget_meta a:hover, footer .edgtf-footer-top .widget.widget_nav_menu a:hover, footer .edgtf-footer-top .widget.widget_recent_entries a:hover, footer .edgtf-footer-top .widget.widget_recent_comments a:hover, footer .edgtf-footer-top .widget.widget_tag_cloud a:hover, .edgtf-top-bar .widget.widget_text a:hover, .edgtf-top-bar .widget.widget_calendar a:hover, .edgtf-top-bar .widget.widget_rss a:hover, .edgtf-top-bar .widget.widget_search a:hover, .edgtf-top-bar .widget.widget_pages a:hover, .edgtf-top-bar .widget.widget_archive a:hover, .edgtf-top-bar .widget.widget_categories a:hover, .edgtf-top-bar .widget.widget_meta a:hover, .edgtf-top-bar .widget.widget_nav_menu a:hover, .edgtf-top-bar .widget.widget_recent_entries a:hover, .edgtf-top-bar .widget.widget_recent_comments a:hover, .edgtf-top-bar .widget.widget_tag_cloud a:hover, footer .edgtf-footer-top .widget.widget_tag_cloud a:hover, .edgtf-top-bar .widget.widget_tag_cloud a:hover, .widget.widget_edgtf_twitter_widget .edgtf-twitter-widget li .edgtf-tweet-text a:hover, .edgtf-footer-top-holder .widget.widget_edgtf_twitter_widget .edgtf-twitter-widget li .edgtf-tweet-text a:hover, .edgtf-social-icon-widget-holder:hover, .edgtf-top-bar .edgtf-social-icon-widget-holder:hover, footer .edgtf-footer-top .edgtf-social-icon-widget-holder:hover, footer .edgtf-footer-top .widget.edgtf-blog-list-widget a:hover, .edgtf-top-bar .widget.edgtf-blog-list-widget a:hover, footer .edgtf-footer-top .widget.edgtf-blog-list-widget .edgtf-blog-list-holder .edgtf-bli-title a:hover, .edgtf-top-bar .widget.edgtf-blog-list-widget .edgtf-blog-list-holder .edgtf-bli-title a:hover, .edgtf-mobile-header .edgtf-mobile-nav ul ul li.current-menu-ancestor>a, .edgtf-mobile-header .edgtf-mobile-nav ul ul li.current-menu-item>a { color: #d3c5d4;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
 .edgtf-portfolio-list-holder.edgtf-pl-hover-overlay-background article .edgtf-pli-text .edgtf-pli-category-holder a:hover { color: #ffffff!important;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
+
 ::selection { background: #ffffff;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
+
 ::-moz-selection { background: #ffffff;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
+
 .edgtf-st-loader .pulse, .edgtf-st-loader .double_pulse .double-bounce1, .edgtf-st-loader .double_pulse .double-bounce2, .edgtf-st-loader .cube, .edgtf-st-loader .rotating_cubes .cube1, .edgtf-st-loader .rotating_cubes .cube2, .edgtf-st-loader .stripes > div, .edgtf-st-loader .wave > div, .edgtf-st-loader .two_rotating_circles .dot1, .edgtf-st-loader .two_rotating_circles .dot2, .edgtf-st-loader .five_rotating_circles .container1 > div, .edgtf-st-loader .five_rotating_circles .container2 > div, .edgtf-st-loader .five_rotating_circles .container3 > div, .edgtf-st-loader .atom .ball-1:before, .edgtf-st-loader .atom .ball-2:before, .edgtf-st-loader .atom .ball-3:before, .edgtf-st-loader .atom .ball-4:before, .edgtf-st-loader .clock .ball:before, .edgtf-st-loader .mitosis .ball, .edgtf-st-loader .lines .line1, .edgtf-st-loader .lines .line2, .edgtf-st-loader .lines .line3, .edgtf-st-loader .lines .line4, .edgtf-st-loader .fussion .ball, .edgtf-st-loader .fussion .ball-1, .edgtf-st-loader .fussion .ball-2, .edgtf-st-loader .fussion .ball-3, .edgtf-st-loader .fussion .ball-4, .edgtf-st-loader .wave_circles .ball, .edgtf-st-loader .pulse_circles .ball, #submit_comment:hover, .post-password-form input[type='submit']:hover, input.wpcf7-form-control.wpcf7-submit, #edgtf-back-to-top > span, .edgtf-btn.edgtf-btn-solid, .edgtf-icon-shortcode.circle, .edgtf-icon-shortcode.square, .widget #wp-calendar td#today, .edgtf-progress-bar .edgtf-pb-content-holder .edgtf-pb-content { background-color: #ffffff;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
+
 .edgtf-st-loader .pulse_circles .ball, #edgtf-back-to-top > span, .edgtf-btn.edgtf-btn-solid { border-color: #ffffff;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
+
 .edgtf-wrapper-inner, .edgtf-content { background-color: #f9f9f9;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
+
 ::selection { background: #d3c5d4;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
+
 ::-moz-selection { background: #d3c5d4;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_design_styles function */
+
 .edgtf-boxed .edgtf-wrapper { background-attachment: fixed;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_content_styles function */
+
 .edgtf-content .edgtf-content-inner > .edgtf-full-width > .edgtf-full-width-inner { padding-top: 0px;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_content_styles function */
+
 .edgtf-content .edgtf-content-inner > .edgtf-container > .edgtf-container-inner { padding-top: 40px;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_h1_styles function */
+
 h1 { color: #262626;font-size: 40px;letter-spacing: 1px;margin-top: 0px;margin-bottom: 0px;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_h2_styles function */
 h2 { font-family: Inconsolata;font-size: 30px;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_h3_styles function */
 h3 { color: #262626;font-family: Inconsolata;font-size: 24px;/*line-height: 31px*/;letter-spacing: .4px;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_h4_styles function */
 h4 { color: #262626;font-family: Inconsolata;font-size: 16px;line-height: 24px;font-weight: 300;letter-spacing: .2px;}
 
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_h5_styles function */
 h5 { font-family: Inconsolata;font-size: 12px;line-height: 20px;letter-spacing: .6px;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/assets/custom-styles/general-custom-styles.php assemble_edge_text_styles function */
 p { font-family: Montserrat;font-size: 16px;line-height: 25px;font-weight: 300;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/footer/custom-styles/custom-styles.php assemble_edge_footer_bottom_general_styles function */
 footer .edgtf-footer-bottom-holder { height: 90px;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/fullscreenmenu/custom-styles/fullscreen-menu.php assemble_edge_fullscreen_menu_general_styles function */
 nav.edgtf-fullscreen-menu ul li, .edgtf-fullscreen-above-menu-widget-holder, .edgtf-fullscreen-below-menu-widget-holder { text-align: center;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/fullscreenmenu/custom-styles/fullscreen-menu.php assemble_edge_fullscreen_menu_general_styles function */
 .edgtf-fullscreen-menu-holder { background-color: rgba(48,48,48,0.9);}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/fullscreenmenu/custom-styles/fullscreen-menu.php assemble_edge_fullscreen_menu_first_level_style function */
 nav.edgtf-fullscreen-menu > ul > li > a { color: #3f3f3f;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/header/custom-styles/header.php assemble_edge_header_standard_menu_area_styles function */
 .edgtf-header-standard .edgtf-page-header .edgtf-logo-wrapper a { max-height: 68px;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/header/custom-styles/header.php assemble_edge_header_standard_menu_area_styles function */
 .edgtf-header-standard .edgtf-page-header .edgtf-menu-area { height: 68px;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/header/custom-styles/header.php assemble_edge_divided_menu_area_styles function */
 .edgtf-header-divided .edgtf-page-header { background-color: rgba(242, 242, 242, 1);}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/header/custom-styles/header.php assemble_edge_divided_menu_area_styles function */
 .edgtf-header-divided .edgtf-page-header .edgtf-logo-wrapper a { max-height: 40px;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/header/custom-styles/header.php assemble_edge_divided_menu_area_styles function */
 .edgtf-header-divided .edgtf-page-header .edgtf-menu-area { height: 40px;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/header/custom-styles/header.php assemble_edge_header_full_screen_menu_area_styles function */
 .edgtf-header-full-screen .edgtf-page-header .edgtf-logo-wrapper a { max-height: 60px;}
-
-/* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/header/custom-styles/header.php assemble_edge_header_full_screen_menu_area_styles function */
 .edgtf-header-full-screen .edgtf-page-header .edgtf-menu-area { height: 60px;}
 
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-                
-        
-        
                     @media only screen and (max-width: 1024px) {
-            /* generated in /var/www/vhosts/bendavidsandhu.com/httpdocs/wp-content/themes/assemble/framework/modules/header/custom-styles/mobile-header.php assemble_edge_mobile_logo_styles function */
 .edgtf-mobile-header .edgtf-mobile-logo-wrapper a { height: 48px !important;}
 
             }
